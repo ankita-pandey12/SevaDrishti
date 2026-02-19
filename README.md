@@ -1,5 +1,4 @@
-﻿# Dr.K.RadhaKrishnan_12
-📊 College Service Operations Analytics Dashboard
+﻿📊 Operations Analytics Dashboard
 
 An AI-powered analytics dashboard that converts natural language questions (English / Hindi / Hinglish) into SQL queries, executes them on a service request database, and visualizes insights on the frontend.
 
@@ -112,3 +111,4 @@ Description	TEXT
 ReopenCount	INT
 FirstResponseHours	DECIMAL
 CreatedAt	TIMESTAMP
+
